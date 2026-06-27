@@ -1,0 +1,17 @@
+<svg viewBox="0 0 400 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Illustration d'un riad avec patio et arc marocain">
+  <rect width="400" height="260" fill="#FAF7F2"/>
+  <rect x="0" y="230" width="400" height="30" fill="#EFE8DA"/>
+  <rect x="40" y="60" width="320" height="170" fill="#A8501F"/>
+  <rect x="40" y="60" width="320" height="14" fill="#7A3A16"/>
+  <path d="M 140 230 L 140 150 A 60 60 0 0 1 260 150 L 260 230 Z" fill="#FAF7F2"/>
+  <path d="M 150 230 L 150 155 A 50 50 0 0 1 250 155 L 250 230 Z" fill="#3B4FA0" opacity="0.25"/>
+  <g fill="#3B4FA0" opacity="0.85">
+    <rect x="62" y="90" width="28" height="28"/>
+    <rect x="310" y="90" width="28" height="28"/>
+    <rect x="62" y="170" width="28" height="28"/>
+    <rect x="310" y="170" width="28" height="28"/>
+  </g>
+  <circle cx="200" cy="100" r="14" fill="#D9A06B"/>
+  <path d="M 186 100 A 14 14 0 0 1 214 100 Z" fill="#A8501F"/>
+  <rect x="70" y="225" width="260" height="10" fill="#5B7553" opacity="0.5"/>
+</svg>

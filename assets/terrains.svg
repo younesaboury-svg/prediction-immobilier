@@ -1,0 +1,12 @@
+<svg viewBox="0 0 400 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Illustration d'un terrain délimité">
+  <rect width="400" height="260" fill="#FAF7F2"/>
+  <rect x="60" y="50" width="280" height="160" fill="#EFE8DA" stroke="#C1602E" stroke-width="3" stroke-dasharray="10 8"/>
+  <line x1="60" y1="130" x2="340" y2="130" stroke="#D9A06B" stroke-width="2" stroke-dasharray="4 4"/>
+  <line x1="200" y1="50" x2="200" y2="210" stroke="#D9A06B" stroke-width="2" stroke-dasharray="4 4"/>
+  <circle cx="60" cy="50" r="6" fill="#C1602E"/>
+  <circle cx="340" cy="50" r="6" fill="#C1602E"/>
+  <circle cx="60" cy="210" r="6" fill="#C1602E"/>
+  <circle cx="340" cy="210" r="6" fill="#C1602E"/>
+  <rect x="120" y="90" width="50" height="35" fill="#5B7553" opacity="0.5"/>
+  <rect x="230" y="150" width="40" height="30" fill="#5B7553" opacity="0.5"/>
+</svg>

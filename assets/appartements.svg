@@ -1,0 +1,31 @@
+<svg viewBox="0 0 400 260" xmlns="http://www.w3.org/2000/svg" role="img" aria-label="Illustration d'un immeuble d'appartements">
+  <rect width="400" height="260" fill="#FAF7F2"/>
+  <rect x="0" y="225" width="400" height="35" fill="#EFE8DA"/>
+  <rect x="90" y="40" width="220" height="190" fill="#D9A06B"/>
+  <rect x="90" y="40" width="220" height="14" fill="#A8501F"/>
+  <g fill="#3B4FA0" opacity="0.85">
+    <rect x="112" y="70" width="34" height="30"/>
+    <rect x="164" y="70" width="34" height="30"/>
+    <rect x="216" y="70" width="34" height="30"/>
+    <rect x="268" y="70" width="34" height="30"/>
+    <rect x="112" y="120" width="34" height="30"/>
+    <rect x="164" y="120" width="34" height="30"/>
+    <rect x="216" y="120" width="34" height="30"/>
+    <rect x="268" y="120" width="34" height="30"/>
+    <rect x="112" y="170" width="34" height="30"/>
+    <rect x="216" y="170" width="34" height="30"/>
+    <rect x="268" y="170" width="34" height="30"/>
+  </g>
+  <rect x="164" y="180" width="34" height="50" fill="#FAF7F2"/>
+  <rect x="170" y="190" width="22" height="40" fill="#A8501F"/>
+  <g fill="#C1602E">
+    <rect x="108" y="100" width="42" height="6"/>
+    <rect x="160" y="100" width="42" height="6"/>
+    <rect x="212" y="100" width="42" height="6"/>
+    <rect x="264" y="100" width="42" height="6"/>
+    <rect x="108" y="150" width="42" height="6"/>
+    <rect x="160" y="150" width="42" height="6"/>
+    <rect x="212" y="150" width="42" height="6"/>
+    <rect x="264" y="150" width="42" height="6"/>
+  </g>
+</svg>
