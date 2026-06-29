@@ -810,16 +810,6 @@ with tab_estimate:
                 with st.expander("Voir les données utilisées pour le calcul"):
                     st.json(payload)
 
-    st.markdown(
-        """
-        <div class="disclaimer-strip">
-            Ces estimations sont fournies à titre indicatif et ne remplacent pas une
-            évaluation professionnelle ou une expertise immobilière.
-        </div>
-        """,
-        unsafe_allow_html=True,
-    )
-
 # ════════════════════════════════════════════════════════════════
 # ONGLET 2 — DASHBOARD DU MARCHÉ
 # ════════════════════════════════════════════════════════════════
