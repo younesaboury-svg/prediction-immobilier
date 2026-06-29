@@ -696,13 +696,6 @@ with tab_estimate:
         options=list(categorie_labels.keys()),
         format_func=lambda c: categorie_labels[c],
         key="estim_categorie",
-    )
-
-    render_category_illustration(categorie_choice)
-    st.markdown(
-        '<div class="illustration-caption">Illustration générique — ne représente pas un bien réel</div>',
-        unsafe_allow_html=True,
-    )
 
     cat_meta = next(c for c in categories_info if c["categorie"] == categorie_choice)
     st.markdown(
