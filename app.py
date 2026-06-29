@@ -699,10 +699,6 @@ with tab_estimate:
     )
 
     render_category_illustration(categorie_choice)
-    st.markdown(
-        '<div class="illustration-caption">Illustration générique — ne représente pas un bien réel</div>',
-        unsafe_allow_html=True,
-    )
 
     cat_meta = next(c for c in categories_info if c["categorie"] == categorie_choice)
     st.markdown(
@@ -810,15 +806,6 @@ with tab_estimate:
                 with st.expander("Voir les données utilisées pour le calcul"):
                     st.json(payload)
 
-    st.markdown(
-        """
-        <div class="disclaimer-strip">
-            Ces estimations sont fournies à titre indicatif et ne remplacent pas une
-            évaluation professionnelle ou une expertise immobilière.
-        </div>
-        """,
-        unsafe_allow_html=True,
-    )
 
 # ════════════════════════════════════════════════════════════════
 # ONGLET 2 — DASHBOARD DU MARCHÉ
